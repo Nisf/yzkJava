@@ -9,6 +9,5 @@ public class LoggingTest {
         String s2 = s1;
         s1 += "12312";
         System.out.println(s2);
-        "13".toCharArray()
     }
 }
